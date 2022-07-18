@@ -1,1 +1,1 @@
-# GoIT
+# GoIT_HW06
